@@ -1,0 +1,7 @@
+,0
+product_id,1345
+product_category_id,1345
+product_name,1345
+product_description,0
+product_price,1345
+product_image,1345
